@@ -18,4 +18,4 @@ Example:
 ```
 
 ## Credits
-* Christian Deacon (AKA Roy) - Writing the entire application.
+* [Christian Deacon](https://www.linkedin.com/in/christian-deacon-902042186/) - Creator.
